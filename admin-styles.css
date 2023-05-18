@@ -1,0 +1,29 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+/* Admin Page */
+#studentResults table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#studentResults th,
+#studentResults td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+#studentResults th {
+    background-color: #f2f2f2;
+}
+
+/* Additional styling can be added as needed */
